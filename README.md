@@ -6,7 +6,7 @@ Wick is a multipurpose creation environment that allows anyone to build a wide r
 
 Wick allows easier access to new web technologies through a visual editor, a timeline system, and a scripting system that makes learning and writing javascript easier. Wick also exports projects as standalone webpages or embeddable HTML5 canvases - no external players or runtimes necessary!
 
-Try the editor [here](http://wick.online/)!
+Try the editor [here](http://wickeditor.com/)!
 
 ### How to run the editor locally for development
 * Clone or download and unzip this repo
